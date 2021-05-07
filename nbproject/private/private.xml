@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/confirmar_dados_agendamento.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/ver_tudo_procedimento_view.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/atualiza_paciente.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/model/Paciente.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/ver_tudo_medico_view.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/atualizar_medico_view.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/registro_atendimento_view.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/deletar_medico.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/atualizar_paciente_view.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/model/Consulta.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/controller/PacienteController.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/consultas_pendentes_view.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/ver_tudo_paciente_view.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/atualizar_procedimento_view.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/ver_tudo_registro_atendimento_view.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/cadastro_medico_view.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/procedimento_view.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/utils/mascaraCpf.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/atualiza_procedimento.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/medico_view.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/cadastro_paciente_view.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/consultas_realizadas_view.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/model/Procedimento.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/deleta_paciente.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/paciente_view.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/agendamento_view.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/controller/ProcedimentoController.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/controller/MedicoController.php</file>
+            <file>file:/C:/xampp/htdocs/SistemaDeMarcacaoDeConsulta/view/atualiza_medico.php</file>
+        </group>
+    </open-files>
+</project-private>
